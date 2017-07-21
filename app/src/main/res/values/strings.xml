@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+    <string name="event_title_hint">Название события</string>
+</resources>
